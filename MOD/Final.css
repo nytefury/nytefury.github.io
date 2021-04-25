@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(ps4-assets/basemod.svgz);
+    background: url(basemod.svgz);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(ps4-assets/disconnected.svgz);
+    background: url(disconnected.svgz);
 }
 
 .ds4.disconnected div {
@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(ps4-assets/triggersmod.svgz);
+    background: url(triggersmod.svgz);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(ps4-assets/bumpermod.svgz) no-repeat;
+    background: url(bumpermod.svgz) no-repeat;
     opacity: 0;
 }
 
@@ -77,7 +77,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(ps4-assets/touchpad.svgz) no-repeat center;
+    background: url(touchpad.svgz) no-repeat center;
 }
 
 .ds4 .meta {
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(ps4-assets/start.svgz);
+    background: url(start.svgz);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(ps4-assets/facemod.svgz);
+    background: url(facemod.svgz);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(ps4-assets/sticksmod.svgz);
+    background: url(sticksmod.svgz);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpadmod.svgz);
+    background: url(dpadmod.svgz);
     position: absolute;
 }
 
